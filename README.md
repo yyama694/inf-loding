@@ -1,4 +1,5 @@
 # inf-loding
+<<<<<<< HEAD
 
 ## Project setup
 ```
@@ -24,3 +25,6 @@ npm run test
 ```
 npm run lint
 ```
+=======
+Vue を使用した無限スクロールサンプル
+>>>>>>> origin/master
